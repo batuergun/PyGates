@@ -37,8 +37,8 @@ You can just basicaly use the gates as a condition like:
 Or just for calling the functions easily you can create a basic definition for library:
 
 
-    import PyGates
-    lg = PyGates.Gates
+    import pygates
+    lg = pygates.Gates
 
 And you can easily call it by using:
 
