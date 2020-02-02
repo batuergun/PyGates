@@ -1,1 +1,1 @@
-from PyGates.PyGates import Gates
+from pygates.PyGates import Gates
