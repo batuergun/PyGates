@@ -1,6 +1,6 @@
-import PyGates
+import pygates
 
-lg = PyGates.Gates
+lg = pygates.Gates
 
 number1 = input("Please write the first variable. \n-> ")
 
