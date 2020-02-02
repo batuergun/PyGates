@@ -51,12 +51,12 @@ ____________________
 
 | Gate | Function | 
 | ------ | ------ | 
-| AND | ```PyGates.Gates.AND( 'A' , 'B' )``` | 
-| NAND | ```PyGates.Gates.NAND( 'A' , 'B' )``` | 
-| OR | ```PyGates.Gates.OR( 'A' , 'B' )``` |  
-| NOR | ```PyGates.Gates.NOR( 'A' , 'B' )``` |
-| XOR | ```PyGates.Gates.XOR( 'A' , 'B' )``` | 
-| XNOR | ```PyGates.Gates.XNOR( 'A' , 'B' )``` | 
+| AND | ```pygates.Gates.AND( 'A' , 'B' )``` | 
+| NAND | ```pygates.Gates.NAND( 'A' , 'B' )``` | 
+| OR | ```pygates.Gates.OR( 'A' , 'B' )``` |  
+| NOR | ```pygates.Gates.NOR( 'A' , 'B' )``` |
+| XOR | ```pygates.Gates.XOR( 'A' , 'B' )``` | 
+| XNOR | ```pygates.Gates.XNOR( 'A' , 'B' )``` | 
 
 License
 ----
